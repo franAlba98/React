@@ -6,7 +6,7 @@ const GifExpertApp = () => {
 
     //const categories = ['Estambul', 'London', 'New York'];
 
-    const [categories, setCategories] = useState(['Estambul']);
+    const [categories, setCategories] = useState(['Hello world']);
 
     /* const handleAdd = () => {
         setCategories([...categories,'Venice']);
