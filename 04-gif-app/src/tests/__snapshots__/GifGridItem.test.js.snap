@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifGridItem tests Must show component 1`] = `
+<div
+  className="box animate__animated animate__fadeIn"
+>
+  <img
+    alt="A title"
+    src="https://localhost:9720/createItem"
+  />
+  <p>
+     
+    A title
+     
+  </p>
+</div>
+`;

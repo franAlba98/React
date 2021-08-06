@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 export const AddCategory = ({ anyNameICanUseTheNameOfTheUseState }) => {
 
-    const [inputValue, setInputValue] = useState('Search...');
+    const [inputValue, setInputValue] = useState('');
 
     const handleInputChange = (e) => {
         //console.log(e.target.value);
