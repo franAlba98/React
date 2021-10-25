@@ -5,7 +5,6 @@ export const useCounter = (initialState = 1) => {
 
     const increment = () => {
         setCounter(counter + 1);
-        console.log('CONTADOR',counter);
     }
 
     const decrement = () => {
